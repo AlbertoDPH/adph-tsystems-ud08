@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// Instaciamos los objetos de tipo ElectrodomesticoApp
+		// Instanciamos los objetos de tipo ElectrodomesticoApp
 		ElectrodomesticoApp electro1 = new ElectrodomesticoApp();
 		ElectrodomesticoApp electro2 = new ElectrodomesticoApp("Amarillo");
 		ElectrodomesticoApp electro3 = new ElectrodomesticoApp(200, "Rojo", 80);

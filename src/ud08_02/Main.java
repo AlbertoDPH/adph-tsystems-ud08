@@ -10,7 +10,7 @@ public class Main {
 		// Se muestra el contenido del objeto del contructor por defecto con toString()
 		System.out.println(pass1.toString());
 
-		// Intanciamos un objeto de la clase PasswordApp le pasamos longitud contraseña
+		// Intanciamos un objeto de la clase PasswordApp le pasamos longitud de la contraseña
 		PasswordApp pass2 = new PasswordApp(12);
 
 		// Muestra la longitud de la contraseña y la contraseña aleatoria con esa

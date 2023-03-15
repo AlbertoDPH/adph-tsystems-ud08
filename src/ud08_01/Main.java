@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// Intanciamos un obejto de la clase Persnona
+		// Intanciamos un obejto de la clase Persona
 		Persona persona1 = new Persona();
 
 		// Se muestra el contenido del objeto del contructor por defecto con toString()
